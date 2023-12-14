@@ -1,0 +1,15 @@
+# Page Object WDIO
+
+A complete project with Webdriver IO ✅ using page object.
+
+## Install dependencies
+
+```bash
+npm install
+```
+
+## Run test script
+
+```bash
+npx wdio wdio.conf.js
+```
